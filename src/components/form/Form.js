@@ -5,7 +5,7 @@ function Form() {
     <div>
       <form>
         <label>Nume: </label>
-        <input type="text" />
+        <input type="taxt" />
       </form>
     </div>
   );
