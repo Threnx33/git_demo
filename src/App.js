@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <Form />
+      <button onClick={() => alert("M-ai apasat")}>Press me</button>
     </div>
   );
 }
